@@ -19,3 +19,13 @@ Issue: https://github.com/kintone/js-sdk/issues/2111
 12. Refresh browser and check the console log again.
     - At this step, you will see a log `4.0.0` (the version of rest-api-client)
 
+## How to verify the changes of rest-api-client
+
+For browser(bundle): same as above
+
+For Node CJS: run command `node index.js`
+
+For Node ESM: run command `node index.mjs`
+
+For UMD: Upload the built UMD file and test on the console of browser `KintoneRestAPIClient.version` 
+
