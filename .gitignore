@@ -1,0 +1,34 @@
+# dependencies
+node_modules/
+.node_modules/
+
+# npm/yarn log
+npm-debug.log*
+
+# testing
+coverage/
+stats.html
+
+# licensed
+.licenses
+
+# artifacts
+lib
+dist
+bin
+artifacts
+
+# misc
+**/.DS_Store
+*.tsbuildinfo
+attachments
+/*.csv
+
+# editor
+**/.vs
+**/.vscode
+.idea
+
+# secrets
+.env
+.envrc
