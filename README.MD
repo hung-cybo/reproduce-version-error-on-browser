@@ -1,5 +1,7 @@
 # Reproduce KintoneRestAPIClient.version causes an Error on browser environment
 
+Issue: https://github.com/kintone/js-sdk/issues/2111
+
 ## Step to reproduce
 
 1. `cd` to this repo
